@@ -14,7 +14,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
 
 ## :wrench: Tecnologias utilizadas:<br>
 <div style="display: inline_block">
-    <img align="center" alt="gel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="gel-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 
 </div>
 
