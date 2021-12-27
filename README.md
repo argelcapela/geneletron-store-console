@@ -50,7 +50,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
 
 ## :soon: Implementação futura:<br>
     
-<li>Implementar esse aplicativo em interface gráfica e mais elaborado.</li>
+<li>Implementar esse aplicativo em interface gráfica porém mais elaborado.</li>
     
 </div>
 <div class="row">
