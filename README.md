@@ -42,7 +42,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
 
 ## :rocket: Rodando o projeto:<br>
     
-<li>Repositório no Github: <a href="https://github.com/argelcapela/geneletron-store">Link</a></li>
+<li>Repositório no Github: <a href="https://github.com/argelcapela/geneletron-store-console">Link</a></li>
 <li>Compilador Online de Java: <a href="https://www.online-java.com/GsOW3Eahi6">Link</a></li>
  
 </div>
