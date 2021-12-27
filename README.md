@@ -10,7 +10,7 @@
 A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada GenEletron. Trata-se de um exercício de Orientação a Objetos,  desenvolvido durante o bootcamp da Generation Brasil, em Java, e em modo console. Treina fortemente conceitos como: Herança, Polimorfismo e organização de classes e pacotes num projeto, assim como trabalho em equipe, pois o projeto foi executado com o auxílio de outros DEVs.
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :wrench: Tecnologias utilizadas:<br>
 <div style="display: inline_block">
@@ -18,7 +18,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
 
 </div>
 
-<div class="row">
+<div class="col-12">
     
 ## :books: Funcionalidades:<br>
 <table class="special-border">
@@ -38,7 +38,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
     
 </div>
 
-<div class="row">
+<div class="col-12">
 
 ## :rocket: Rodando o projeto:<br>
     
@@ -46,14 +46,14 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
 <li>Compilador Online de Java: <a href="https://www.online-java.com/GsOW3Eahi6">Link</a></li>
  
 </div>
-<div class="row">
+<div class="col-12">
 
 ## :soon: Implementação futura:<br>
     
 <li>Implementar esse aplicativo em interface gráfica porém mais elaborado.</li>
     
 </div>
-<div class="row">
+<div class="col-12">
     
 
 ## :handshake: Colaboradores:<br>
@@ -70,7 +70,7 @@ A ideia é criar um aplicativo para realizar compras numa loja fictícia chamada
   </tr>
 </table>
 </div>
-<div class="row">
+<div class="col-12">
     
 ## :dart: Status do projeto:<br>
 
